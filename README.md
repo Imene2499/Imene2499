@@ -1,4 +1,5 @@
 👋 About Me
+
 I’m a final-year Computer Science student at the Higher National School of Computer Science (ESI) in Algiers, specializing in Software Engineering. My interests lie at the intersection of artificial intelligence 🤖 and software engineering 🧩, with a particular focus on developing robust, intelligent, and user-centered systems.
 
 I’ve worked on a range of academic and personal projects involving machine learning 📊, data analysis 📈, computer vision 👁️, mobile applications 📱, and software architecture 🏗️. I also have professional experience in web development 🌐, where I participated in building real-world solutions from concept to deployment.

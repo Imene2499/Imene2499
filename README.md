@@ -4,7 +4,7 @@ I’m a final-year Computer Science student at the Higher National School of Com
 
 I’ve worked on a range of academic and personal projects involving machine learning 📊, data analysis 📈, computer vision 👁️, mobile applications 📱, and software architecture 🏗️. I also have professional experience in web development 🌐, where I participated in building real-world solutions from concept to deployment.
 
-Beyond technical skills, I bring a strong sense of design thinking 🎨, project ownership 🚀, and collaboration 🤝—having led teams and mentored peers in both development and creative roles.
+Beyond technical skills, I bring a strong sense of design thinking 🎨, project ownership 🚀, and collaboration 🤝having led teams and mentored peers in both development and creative roles.
 
 I’m currently seeking a final-year internship (2025/2026) where I can contribute to innovative software solutions, especially those leveraging AI, and continue learning alongside experienced professionals.
 
